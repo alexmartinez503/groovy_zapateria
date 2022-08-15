@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
 
     <!-- Scripts -->
-    @vite(['public\admin\css\material-dashboard.css', 'public\admin\js\bootstrap-material-design.min.js', 'public\admin\js\jquery.min.js', 'public\admin\js\perfect-scrollbar.jquery.min.js', 'public\admin\js\popper.min.js',
+    @vite(['resources/sass/app.scss', 'resources/js/app.js', 'public\admin\css\material-dashboard.css', 'public\admin\js\bootstrap-material-design.min.js', 'public\admin\js\jquery.min.js', 'public\admin\js\perfect-scrollbar.jquery.min.js', 'public\admin\js\popper.min.js',
 ])
 </head>
 <body>
